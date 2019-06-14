@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Agregar Beneficiario"; ObjectID = "Mga-x7-YIz"; */
+"Mga-x7-YIz.normalTitle" = "Agregar Beneficiario";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OZJ-P0-mh0"; */
+"OZJ-P0-mh0.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "RFC beneficiario"; ObjectID = "Siu-R0-Qc5"; */
+"Siu-R0-Qc5.placeholder" = "RFC beneficiario";
+
+/* Class = "UILabel"; text = "Beneficiarios"; ObjectID = "UUF-ET-gl1"; */
+"UUF-ET-gl1.text" = "Beneficiarios";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hh4-S1-fFD"; */
+"hh4-S1-fFD.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Nombre del beneficiario"; ObjectID = "s48-7z-v5j"; */
+"s48-7z-v5j.placeholder" = "Nombre del beneficiario";
+
+/* Class = "UITextField"; placeholder = "Parentezco"; ObjectID = "uZV-yZ-awp"; */
+"uZV-yZ-awp.placeholder" = "Parentezco";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yOp-5e-qKh"; */
+"yOp-5e-qKh.text" = "Label";
